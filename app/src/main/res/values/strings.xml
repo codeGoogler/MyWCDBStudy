@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWCDBStudy</string>
+    <string name="action_settings">设置</string>
+    <string name="init_plain_text_db">初始化原表</string>
+    <string name="init_encrypted_db">刷新新表</string>
+    <string name="insert_message">插入信息</string>
+</resources>
